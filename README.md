@@ -1,0 +1,1 @@
+Estimando a probabilidade de ocorrer uma estiagem igual ou pior (com base na media movel de 3 meses) a de 2020 no estado do paraná. A abordagem usada foi decompor as series originais em tendencia, sazonalidade e ruído e, após isso, usar a tendência média dos últimos anos e gerar séries sintéticas para o ruido com modelos ARMA :)
